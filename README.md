@@ -1,1 +1,1 @@
-Preparing for RHCSA exam
+Some useful linux tips
