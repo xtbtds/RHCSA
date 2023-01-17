@@ -1,1 +1,1 @@
-Some useful linux tips
+Red Hat cheat sheet
